@@ -21,10 +21,8 @@ Se você está procurando por alguém para ajudar em um projeto ou quer trocar i
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renandoring&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandoring&layout=compact&theme=dracula" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renandoring&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renandoring&layout=compact&theme=dracula)
 
 <!--
 **renandoring/renandoring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
