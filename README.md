@@ -8,11 +8,23 @@ Se você está procurando por alguém para ajudar em um projeto ou quer trocar i
 
 <h3>Criando projetos com:</h3>
 
-[![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)]
+### 🚀 Tecnologias que uso:
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renandoring&show_icons=true&theme=dracula)
+| Front-end | Back-end |
+|-----------|----------|
+| HTML5     | Java     |
+| CSS3      |          |
+| JavaScript|          |
+| React     |          |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renandoring&layout=compact&theme=dracula)
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renandoring&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandoring&layout=compact&theme=dracula" />
+</p>
 
 <!--
 **renandoring/renandoring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
