@@ -8,15 +8,13 @@ Se você está procurando por alguém para ajudar em um projeto ou quer trocar i
 
 <h3>Criando projetos com:</h3>
 
-
 [![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)]
 
-<div>
-  <a href="https://github.com/renandoring">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandoring&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandoring&layout=compact&langs_count=16&theme=dracula" />
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandoring&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandoring&layout=compact&langs_count=8&theme=dracula"/>
 </div>
+
 <!--
 **renandoring/renandoring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
